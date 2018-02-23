@@ -1,0 +1,7 @@
+NAME=unzip
+VERSION=6.0
+REVISION=1
+LICENSE=Info-ZIP
+SRC=ftp://ftp.info-zip.org/pub/infozip/src/unzip60.tgz
+SRCMD5=62b490407489521db863b523a7f86375
+CLEANUP=yes
